@@ -14,7 +14,7 @@ Our project aims to provide an end-to-end hyperlocal platform to connect local e
 3. Entrepreneurs could connect with manufacturers/suppliers for raw materials from the comfort of their mobile phones.
 4. Secured and Logged Transactions for every wish created on our very own BlockChain
 
-# SWOT Analysis
+## SWOT Analysis
 1. Strengths : Providing support to local talent and providing opportunities for extra income . The platform can also be used as means of finding local freelance opprtunities.
 2. Weakness : As with any new model , proper focus needs to be given in order to improve and make the peer to peer local interactions as smooth and efficient as possibe. This   is surely a huge task , but we at CloseBuy are committed to make this happen .
 3. Opportunities : There exists a single global market while on the other hand , there exists millions of local ones. Catering to people at a local scale makes the model more scalable and more efficient while also providing employment and economic opportunities to people .
